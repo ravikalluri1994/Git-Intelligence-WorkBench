@@ -1,0 +1,5 @@
+{
+  "name": "Git Workflow Generator",
+  "description": "Generate standardized Git branch names, commit messages, and Merge Request titles from JIRA issue details using Gemini AI.",
+  "requestFramePermissions": []
+}
